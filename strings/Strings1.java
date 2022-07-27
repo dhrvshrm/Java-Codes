@@ -7,9 +7,7 @@ public class Strings1 {
         try (Scanner sc = new Scanner(System.in)) {
             String test = sc.nextLine();
             System.out.println("Test string is " + test);
+            System.out.println("Test string is " + test);
         }
-       
-        
     }
 }
-
