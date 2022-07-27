@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.Scanner;
 
-import javax.swing.InputMap;
+// import javax.swing.InputMap;
 
 public class twoDarray1 {
     public static void main(String[] args) {
