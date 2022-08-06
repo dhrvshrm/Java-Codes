@@ -12,10 +12,10 @@ public class String2 {
             sb.setCharAt(front, backChar);
             sb.setCharAt(back, frontChar);
         }
-        // ?System.out.println(sb);
-        if (condition) {
+        System.out.println(sb);
+        // if (condition) {
             
-        }
+        // }
 
     }
 }
